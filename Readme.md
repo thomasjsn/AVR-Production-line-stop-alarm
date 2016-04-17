@@ -2,7 +2,7 @@
 
 Simple alarm circuit to monitor up to eight inputs, from e.g. production equipment. If any inputs are triggered an alarm is sounded. Uses the AVR AT90S2313 microcontroller.
 
-![Production line stop alarm](https://cdn.uctrl.net/images/sized/width/md/21/4/421-width-md.jpeg)
+![Production line stop alarm](https://files.uctrl.net/github/modules/159.jpeg)
 
 Written in basic, using [Bascom-AVR](http://www.mcselec.com/).
 
